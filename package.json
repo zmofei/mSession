@@ -1,6 +1,6 @@
 {
   "name": "msession",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "node session",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:zmofei/node-session.git"
+    "url": "git@github.com:zmofei/mSession.git"
   },
   "keywords": [
     "node",
@@ -17,7 +17,7 @@
   "author": "zmofei <13761509829@163.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zmofei/node-session/issues"
+    "url": "https://github.com/zmofei/mSession/issues"
   },
-  "homepage": "https://github.com/zmofei/node-session"
+  "homepage": "https://github.com/zmofei/mSession"
 }
