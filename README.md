@@ -6,7 +6,7 @@ A easy way to control session in nodejs
 Install
 =======
 
-`npm install msession
+`npm install msession`
 
 Example
 =======
