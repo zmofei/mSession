@@ -22,6 +22,6 @@ sessionM.set('power','admin',1000*60*60*24)
 
 //get Session
 sessionM.get('power');
-//return 'admin'
+//return 'admin' 
 
 ```

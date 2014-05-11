@@ -1,0 +1,23 @@
+{
+  "name": "msession",
+  "version": "0.0.0",
+  "description": "node session",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zmofei/node-session.git"
+  },
+  "keywords": [
+    "node",
+    "session"
+  ],
+  "author": "zmofei <13761509829@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zmofei/node-session/issues"
+  },
+  "homepage": "https://github.com/zmofei/node-session"
+}
